@@ -1,5 +1,5 @@
 # PyLiTube MP3
-
+![banner](.\src\PyLitube_banner.png)
 O **PyLiTube MP3** é um aplicativo em Python que permite aos usuários baixar músicas individuais ou playlists do YouTube e convertê-las para o formato MP3.
 
 Utilizando a biblioteca **PySimpleGUI**, o aplicativo oferece uma interface amigável onde os usuários podem facilmente selecionar os vídeos desejados e escolher um diretório de saída para suas músicas favoritas.
@@ -72,5 +72,5 @@ Utilizando a biblioteca **PySimpleGUI**, o aplicativo oferece uma interface amig
 - Python 3.x
 - Bibliotecas: PySimpleGUI (v4.60.4), pytube (v15.0.0) (verifique os requirements.txt)
 
-# License
-This project is Licensed under [IMT](./LICENSE).
+# Licença
+Este projeto é Licenciado por [IMT](./LICENSE).
