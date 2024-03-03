@@ -54,10 +54,10 @@ Utilizando a biblioteca **PySimpleGUI**, o aplicativo oferece uma interface amig
     </details>
 
 3. **Execução:**
-    1. Execute o arquivo `PyLiTube.py`.
-    2. Cole o link da **playlist** ou vídeo **individual** do YouTube na caixa de entrada.
-    3. Selecione um diretório de saída **"Select Output Folder"**.
-    4. Clique no botão **“Ok”** para iniciar o processo.
+    - Execute o arquivo `PyLiTube.py`.
+    - Cole o link da **playlist** ou vídeo **individual** do YouTube na caixa de entrada.
+    - Selecione um diretório de saída **"Select Output Folder"**.
+    - Clique no botão **“Ok”** para iniciar o processo.
 
 ## Observações
 
