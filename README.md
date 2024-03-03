@@ -23,8 +23,8 @@ Utilizando a biblioteca **PySimpleGUI**, o aplicativo oferece uma interface amig
     <details>
     <summary>Windows</summary>
 
-    1. **Mover o arquivo FFmpeg:** Mova a pasta [FFmpeg](./FFmpeg) para a raiz do seu sistema, geralmente o Disco Local (c:).
-    2. **Adicionar ao Caminho do Sistema:**
+    - **Mover o arquivo FFmpeg:** Mova a pasta [FFmpeg](./FFmpeg) para a raiz do seu sistema, geralmente o Disco Local (c:).
+    - **Adicionar ao Caminho do Sistema:**
         - Abra o CMD como administrador “Prompt de Comando (Admin)”.
         - Execute o seguinte comando para adicionar o caminho do FFmpeg ao sistema:
         
@@ -36,17 +36,17 @@ Utilizando a biblioteca **PySimpleGUI**, o aplicativo oferece uma interface amig
     <details>
     <summary>Linux</summary>
 
-    1. **Atualizar o sistema:** Abra o terminal e atualize o sistema com o seguinte comando:
+    - **Atualizar o sistema:** Abra o terminal e atualize o sistema com o seguinte comando:
     
         ```bash
         sudo apt-get update
         ```
-    2. **Instalar o FFmpeg:** Execute o seguinte comando para instalar o FFmpeg:
+    - **Instalar o FFmpeg:** Execute o seguinte comando para instalar o FFmpeg:
     
         ```bash
         sudo apt-get install ffmpeg
         ```
-    3. **Verificar a instalação:** Você pode verificar se o FFmpeg foi instalado corretamente com o seguinte comando:
+    - **Verificar a instalação:** Você pode verificar se o FFmpeg foi instalado corretamente com o seguinte comando:
     
         ```bash
         ffmpeg -version
